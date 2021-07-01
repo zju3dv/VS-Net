@@ -2,7 +2,7 @@
 ### [Project Page](https://drinkingcoder.github.io/publication/vs-net/) | [Paper](https://arxiv.org/abs/2105.10886)
 
 > VS-Net: Voting with Segmentation for Visual Localization \
-> [Zhaoyang Huang](https://drinkingcoder.github.io)<sup>\*</sup>, Han Zhou<sup>\*</sup>, Yijin Li, Bangbang Yang, Yan Xu, Xiaowei Zhou, Hujun Bao, Guofeng Zhang, [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) \
+> [Zhaoyang Huang](https://drinkingcoder.github.io)<sup>\*</sup>, Han Zhou<sup>\*</sup>, Yijin Li, Bangbang Yang, Yan Xu, [Xiaowei Zhou](http://xzhou.me/), Hujun Bao, [Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/) \
 > CVPR 2021
 
 <div style="text-align:center"><img src="assets/teasor.jpg" /></div>
