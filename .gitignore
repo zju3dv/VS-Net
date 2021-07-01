@@ -1,0 +1,15 @@
+.vscode
+7scenes_logs/
+cambridge_logs/
+nohup_log/
+
+utils/*/build/
+utils/*/*.egg-info/
+utils/*/dist/
+
+
+
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/

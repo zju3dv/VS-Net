@@ -1,0 +1,2 @@
+from configs.sevenscenes_config import SevenScenesConfig, SevenScenesLocConfig
+from configs.cambridge_config import CambridgeConfig, CambridgeLocConfig
