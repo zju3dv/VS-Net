@@ -46,8 +46,8 @@ In the end, you will get the following file tree.
 ```
 
 ### Evaluation
-We provide 7scenes training params used in our paper in `collected_confgs/7scenes`.
-The pretrained models could be found [here](https://drive.google.com/file/d/1p7mMtRtLXQXYCgKvolGVO-RQ3-7w3gYa/view?usp=sharing). All data are tested on RTX 2070 and i7-9700K.
+We provide training params used in our paper in `collected_confgs`.
+The pretrained models could be found [here](https://drive.google.com/drive/folders/1WLrZMmCdE1b5JXf7WAc97xxgHNHqH_9y?usp=sharing). All data are tested on RTX 2070 and i7-9700K.
 
 ```
 python eval.py --dataset {dataset}_loc --resume true --config /path/to/config.json
